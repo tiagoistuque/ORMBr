@@ -9,6 +9,6 @@
 		"github.com/hashload/dbcbr": "^1.1.7",
 		"github.com/hashload/dbebr": "^1.1.7",
 		"github.com/hashload/cqlbr": "^1.1.6",
-		"github.com/hashload/jsonbr": "^1.1.6"
+		"github.com/hashload/jsonbr": "^1.1.7"
 	}
 }
